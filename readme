@@ -1,0 +1,11 @@
+Basic Data structures visualisation of C language using tkinter module in python.
+
+Requirements:
+	--gcc compiler
+
+Run the python file to display the text editor.
+Write C program in editor and save it in your local machine.
+Click Run to run and visualise the C program.
+
+Limitations:
+	--This is applied to basic data_structures.
